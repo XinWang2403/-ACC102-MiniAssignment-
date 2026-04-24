@@ -1,0 +1,2 @@
+Dataset: Superstore Sales Dataset (public dataset)
+Source: https://raw.githubusercontent.com/plotly/datasets/master/superstore.csv
